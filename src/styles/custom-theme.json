@@ -1,0 +1,16 @@
+{
+  "color-primary-500": "#0095ff",
+  "color-primary-600": "#007bff",
+  "color-success-500": "#00d68f",
+  "color-danger-500": "#ff3d71",
+  "color-warning-500": "#ffc900",
+  "color-info-500": "#2db7ff",
+  "color-basic-100": "#ffffff",
+  "color-basic-800": "#222b45",
+  "color-basic-900": "#1a2138",
+  "color-basic-1000": "#151a30",
+  "color-basic-1100": "#101426",
+  "text-font-family": "System",
+  "text-heading-1-font-size": 36,
+  "text-heading-1-font-weight": "800"
+}
